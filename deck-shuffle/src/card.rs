@@ -1,7 +1,7 @@
 use std::fmt;
 use strum_macros::EnumIter;
 
-#[derive(EnumIter, Clone, PartialEq, Debug)]
+#[derive(EnumIter, Clone, Copy, PartialEq, Debug)]
 pub enum CardType {
     Club,
     Diamond,
@@ -20,7 +20,7 @@ impl fmt::Display for CardType {
     }
 }
 
-#[derive(EnumIter, Clone, PartialEq, Debug)]
+#[derive(EnumIter, Clone, Copy, PartialEq, Debug)]
 pub enum CardValue {
     A,
     Two,

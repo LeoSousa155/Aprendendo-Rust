@@ -16,7 +16,7 @@ impl Deck {
 
         for card_type in card::CardType::iter() {
             for card_value in card::CardValue::iter() {
-                cards.push(card::Card::new(card_type.clone(), card_value.clone()));
+                cards.push(card::Card::new(card_type, card_value));
             }
         }
         Deck { cards }
