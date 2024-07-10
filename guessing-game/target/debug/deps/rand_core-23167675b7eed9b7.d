@@ -1,0 +1,10 @@
+C:\Users\usoda\OneDrive\Ambiente de Trabalho\rust_projects\Aprendendo-Rust\guessing-game\target\debug\deps\librand_core-23167675b7eed9b7.rmeta: C:\Users\usoda\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.6.4\src\lib.rs C:\Users\usoda\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.6.4\src\block.rs C:\Users\usoda\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.6.4\src\error.rs C:\Users\usoda\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.6.4\src\impls.rs C:\Users\usoda\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.6.4\src\le.rs C:\Users\usoda\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.6.4\src\os.rs
+
+C:\Users\usoda\OneDrive\Ambiente de Trabalho\rust_projects\Aprendendo-Rust\guessing-game\target\debug\deps\rand_core-23167675b7eed9b7.d: C:\Users\usoda\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.6.4\src\lib.rs C:\Users\usoda\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.6.4\src\block.rs C:\Users\usoda\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.6.4\src\error.rs C:\Users\usoda\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.6.4\src\impls.rs C:\Users\usoda\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.6.4\src\le.rs C:\Users\usoda\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.6.4\src\os.rs
+
+C:\Users\usoda\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.6.4\src\lib.rs:
+C:\Users\usoda\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.6.4\src\block.rs:
+C:\Users\usoda\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.6.4\src\error.rs:
+C:\Users\usoda\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.6.4\src\impls.rs:
+C:\Users\usoda\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.6.4\src\le.rs:
+C:\Users\usoda\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.6.4\src\os.rs:
