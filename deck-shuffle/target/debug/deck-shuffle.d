@@ -1,0 +1,1 @@
+C:\Users\usoda\OneDrive\Ambiente\ de\ Trabalho\Aprendendo-Rust\deck-shuffle\target\debug\deck-shuffle.exe: C:\Users\usoda\OneDrive\Ambiente\ de\ Trabalho\Aprendendo-Rust\deck-shuffle\src\card.rs C:\Users\usoda\OneDrive\Ambiente\ de\ Trabalho\Aprendendo-Rust\deck-shuffle\src\deck.rs C:\Users\usoda\OneDrive\Ambiente\ de\ Trabalho\Aprendendo-Rust\deck-shuffle\src\main.rs
