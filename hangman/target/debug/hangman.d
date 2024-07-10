@@ -1,0 +1,1 @@
+C:\Users\usoda\OneDrive\Ambiente\ de\ Trabalho\rust_projects\Aprendendo-Rust\hangman\target\debug\hangman.exe: C:\Users\usoda\OneDrive\Ambiente\ de\ Trabalho\rust_projects\Aprendendo-Rust\hangman\src\main.rs

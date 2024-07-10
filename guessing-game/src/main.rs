@@ -11,7 +11,7 @@ fn main() {
     let mut total_tries = 0;
 
     loop {
-        print!("Guess the number: ");
+        println!("Guess the number: ");
         let mut guess = String::new();
         io::stdin().read_line(&mut guess)
             .expect("Failed to read line");
